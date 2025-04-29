@@ -13,6 +13,6 @@ Clustering of resumes using KMeans 🧠
 
 Machine Learning-based resume classification (Logistic Regression, Random Forest, etc.) 🎯
 
-Interactive web application using Gradio and Streamlit for uploading resumes and screening 🔥
+Interactive web application using Gradio  for uploading resumes and screening 🔥
 
 Visualization of top candidates, score distribution, and clusters 📊
